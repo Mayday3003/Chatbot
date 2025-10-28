@@ -1,0 +1,13 @@
+Django>=4.2
+djangorestframework
+djangorestframework-simplejwt
+channels
+uvicorn
+asgiref
+python-dotenv
+sentence-transformers
+faiss-cpu
+transformers
+torch
+pytest
+pytest-django
